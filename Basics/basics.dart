@@ -4,5 +4,6 @@ printNumber(num1) {
 }
 
 main() {
-  printNumber(1);
+  var number = 42;
+  printNumber(number);
 }
